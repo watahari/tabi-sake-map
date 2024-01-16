@@ -1,51 +1,103 @@
- - https://tabi-sake.com/tabisake/nikko/
- - https://tabi-sake.com/tabisake/yufuin/
- - https://tabi-sake.com/tabisake/izumo/
- - https://tabi-sake.com/tabisake/hiroshima/
- - https://tabi-sake.com/tabisake/ishigakijima/
- - https://tabi-sake.com/tabisake/tazawako/
- - https://tabi-sake.com/tabisake/bandai/
- - https://tabi-sake.com/tabisake/beppu/
- - https://tabi-sake.com/tabisake/biwako/
- - https://tabi-sake.com/tabisake/iyo/
- - https://tabi-sake.com/tabisake/yokohama/
- - https://tabi-sake.com/tabisake/chichibunagatoro/
- - https://tabi-sake.com/tabisake/ginzan-onsen/
- - https://tabi-sake.com/tabisake/tokyo/
- - https://tabi-sake.com/tabisake/aso/
- - https://tabi-sake.com/tabisake/oirase-towadako/
- - https://tabi-sake.com/tabisake/hakata/
- - https://tabi-sake.com/tabisake/hidatakayamashirakawago/
- - https://tabi-sake.com/tabisake/nagasakishi/
- - https://tabi-sake.com/tabisake/hiraizumihanamaki/
- - https://tabi-sake.com/tabisake/saga/
- - https://tabi-sake.com/tabisake/hagi/
- - https://tabi-sake.com/tabisake/nara/
- - https://tabi-sake.com/tabisake/shinshu/
- - https://tabi-sake.com/tabisake/miyazaki/
- - https://tabi-sake.com/tabisake/yoshinogawa/
- - https://tabi-sake.com/tabisake/tosa/
- - https://tabi-sake.com/tabisake/kusatsu/
- - https://tabi-sake.com/tabisake/fujisanfujigoko/
- - https://tabi-sake.com/tabisake/okinawa/
- - https://tabi-sake.com/tabisake/echigo/
- - https://tabi-sake.com/tabisake/hakone/
- - https://tabi-sake.com/tabisake/wakayama/
- - https://tabi-sake.com/tabisake/aichi/
- - https://tabi-sake.com/tabisake/kurashiki/
- - https://tabi-sake.com/tabisake/hitachinokuni/
- - https://tabi-sake.com/tabisake/echizen/
- - https://tabi-sake.com/tabisake/izu/
- - https://tabi-sake.com/tabisake/tottorisakyu/
- - https://tabi-sake.com/tabisake/osaka/
- - https://tabi-sake.com/tabisake/kagoshima/
- - https://tabi-sake.com/tabisake/iseshima/
- - https://tabi-sake.com/tabisake/kagakanazawa/
- - https://tabi-sake.com/tabisake/sanuki/
- - https://tabi-sake.com/tabisake/etchutoyama/
- - https://tabi-sake.com/tabisake/kyoto/
- - https://tabi-sake.com/tabisake/sendai/
- - https://tabi-sake.com/tabisake/himejikinosaki/
- - https://tabi-sake.com/tabisake/chibaboso/
- - https://tabi-sake.com/tabisake/hokkaido/
- - https://tabi-sake.com/tabisake/fukushima/
+spot:
+  - name: "01.日光"
+    url: https://tabi-sake.com/tabisake/nikko/
+  - name: "02.湯布院"
+    url: https://tabi-sake.com/tabisake/yufuin/
+  - name: "03.松江・出雲"
+    url: https://tabi-sake.com/tabisake/izumo/
+  - name: "04.広島"
+    url: https://tabi-sake.com/tabisake/hiroshima/
+  - name: "05.石垣島"
+    url: https://tabi-sake.com/tabisake/ishigakijima/
+  - name: "06.田沢湖・角館"
+    url: https://tabi-sake.com/tabisake/tazawako/
+  - name: "07.磐梯"
+    url: https://tabi-sake.com/tabisake/bandai/
+  - name: "08.別府"
+    url: https://tabi-sake.com/tabisake/beppu/
+  - name: "09.琵琶湖"
+    url: https://tabi-sake.com/tabisake/biwako/
+  - name: "10.伊予国"
+    url: https://tabi-sake.com/tabisake/iyo/
+  - name: "11.横浜から湘南"
+    url: https://tabi-sake.com/tabisake/yokohama/
+  - name: "12.秩父・長瀞"
+    url: https://tabi-sake.com/tabisake/chichibunagatoro/
+  - name: "13.銀山温泉"
+    url: https://tabi-sake.com/tabisake/ginzan-onsen/
+  - name: "14.東京"
+    url: https://tabi-sake.com/tabisake/tokyo/
+  - name: "15.阿蘇"
+    url: https://tabi-sake.com/tabisake/aso/
+  - name: "16.奥入瀬十和田湖畔"
+    url: https://tabi-sake.com/tabisake/oirase-towadako/
+  - name: "17.博多"
+    url: https://tabi-sake.com/tabisake/hakata/
+  - name: "18.飛騨高山白川郷"
+    url: https://tabi-sake.com/tabisake/hidatakayamashirakawago/
+  - name: "19.長崎市・島原"
+    url: https://tabi-sake.com/tabisake/nagasakishi/
+  - name: "20.平泉・花巻"
+    url: https://tabi-sake.com/tabisake/hiraizumihanamaki/
+  - name: "21.肥前国（佐賀）"
+    url: https://tabi-sake.com/tabisake/saga/
+  - name: "22.萩"
+    url: https://tabi-sake.com/tabisake/hagi/
+  - name: "23.奈良（飛鳥）"
+    url: https://tabi-sake.com/tabisake/nara/
+  - name: "24.信州"
+    url: https://tabi-sake.com/tabisake/shinshu/
+  - name: "25.宮崎"
+    url: https://tabi-sake.com/tabisake/miyazaki/
+  - name: "26.吉野川"
+    url: https://tabi-sake.com/tabisake/yoshinogawa/
+  - name: "27.土佐"
+    url: https://tabi-sake.com/tabisake/tosa/
+  - name: "28.草津"
+    url: https://tabi-sake.com/tabisake/kusatsu/
+  - name: "29.富士山・富士五湖"
+    url: https://tabi-sake.com/tabisake/fujisanfujigoko/
+  - name: "30.沖縄本島"
+    url: https://tabi-sake.com/tabisake/okinawa/
+  - name: "31.越後"
+    url: https://tabi-sake.com/tabisake/echigo/
+  - name: "32.箱根"
+    url: https://tabi-sake.com/tabisake/hakone/
+  - name: "33.和歌山"
+    url: https://tabi-sake.com/tabisake/wakayama/
+  - name: "34.愛知"
+    url: https://tabi-sake.com/tabisake/aichi/
+  - name: "35.倉敷"
+    url: https://tabi-sake.com/tabisake/kurashiki/
+  - name: "36.常陸国"
+    url: https://tabi-sake.com/tabisake/hitachinokuni/
+  - name: "37.越前"
+    url: https://tabi-sake.com/tabisake/echizen/
+  - name: "38.伊豆"
+    url: https://tabi-sake.com/tabisake/izu/
+  - name: "39.鳥取砂丘"
+    url: https://tabi-sake.com/tabisake/tottorisakyu/
+  - name: "40.ええで！おおさか"
+    url: https://tabi-sake.com/tabisake/osaka/
+  - name: "41.鹿児島"
+    url: https://tabi-sake.com/tabisake/kagoshima/
+  - name: "42.伊勢志摩"
+    url: https://tabi-sake.com/tabisake/iseshima/
+  - name: "43.加賀・金沢"
+    url: https://tabi-sake.com/tabisake/kagakanazawa/
+  - name: "44.讃岐"
+    url: https://tabi-sake.com/tabisake/sanuki/
+  - name: "45.越中とやま"
+    url: https://tabi-sake.com/tabisake/etchutoyama/
+  - name: "46.京都"
+    url: https://tabi-sake.com/tabisake/kyoto/
+  - name: "47.仙台"
+    url: https://tabi-sake.com/tabisake/sendai/
+  - name: "48.姫路から城崎温泉"
+    url: https://tabi-sake.com/tabisake/himejikinosaki/
+  - name: "49.千葉・房総"
+    url: https://tabi-sake.com/tabisake/chibaboso/
+  - name: "50.北海道"
+    url: https://tabi-sake.com/tabisake/hokkaido/
+  - name: "51.福島"
+    url: https://tabi-sake.com/tabisake/fukushima/
