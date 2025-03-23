@@ -31,12 +31,12 @@ spot:
     url: https://tabi-sake.com/tabisake/aso/
   - name: "16.奥入瀬十和田湖畔"
     url: https://tabi-sake.com/tabisake/oirase-towadako/
-  - name: "17.博多"
-    url: https://tabi-sake.com/tabisake/hakata/
+  - name: "17.福岡"
+    url: https://tabi-sake.com/tabisake/fukuoka/
   - name: "18.飛騨高山白川郷"
     url: https://tabi-sake.com/tabisake/hidatakayamashirakawago/
-  - name: "19.長崎市・島原"
-    url: https://tabi-sake.com/tabisake/nagasakishi/
+  - name: "19.長崎"
+    url: https://tabi-sake.com/tabisake/nagasaki/
   - name: "20.平泉・花巻"
     url: https://tabi-sake.com/tabisake/hiraizumihanamaki/
   - name: "21.肥前国（佐賀）"
@@ -91,8 +91,8 @@ spot:
     url: https://tabi-sake.com/tabisake/etchutoyama/
   - name: "46.京都"
     url: https://tabi-sake.com/tabisake/kyoto/
-  - name: "47.仙台"
-    url: https://tabi-sake.com/tabisake/sendai/
+  - name: "47.宮城"
+    url: https://tabi-sake.com/tabisake/miyagi/
   - name: "48.姫路から城崎温泉"
     url: https://tabi-sake.com/tabisake/himejikinosaki/
   - name: "49.千葉・房総"
